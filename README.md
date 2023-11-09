@@ -1,3 +1,10 @@
+## Metaverse
+Metaverse is a web application built with Next.js, Tailwind CSS, and Framer Motion, providing a seamless and visually appealing user experience. Below, you'll find detailed information about the project, its features, technologies used, and instructions for running the application locally or contributing to its development.
+
+Technologies Used
+Next.js: Next.js is a React framework that enables server-side rendering, static site generation, and routing.
+Tailwind CSS: Tailwind CSS is a utility-first CSS framework that simplifies building modern and responsive web designs.
+Framer Motion: Framer Motion is a motion library for React that allows for smooth animations and transitions.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
